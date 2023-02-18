@@ -1,0 +1,14 @@
+[1mdiff --git a/sobre.html b/sobre.html[m
+[1mindex eeceeff..165e6f2 100644[m
+[1m--- a/sobre.html[m
+[1m+++ b/sobre.html[m
+[36m@@ -4,8 +4,7 @@[m
+     <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quas at velit animi accusamus est hic dicta labore eum illo atque quisquam temporibus, iure modi adipisci, necessitatibus ipsum voluptate quos aliquid?</p>[m
+     <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Totam dolorem ab velit tenetur sed illo delectus, nihil placeat quod excepturi, nulla alias repellat voluptatem beatae facere voluptatum nisi veritatis quidem?[m
+     </p>[m
+[31m-    <p>[m
+[31m-        Lorem ipsum dolor sit amet consectetur, adipisicing elit. Fugiat nemo, rerum harum dignissimos quos esse officiis modi sequi, quae perferendis iste optio. Corrupti consequatur, laudantium repellendus vitae distinctio veritatis quas.[m
+[32m+[m[32m    <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Fugiat nemo, rerum harum dignissimos quos esse officiis modi sequi, quae perferendis iste optio. Corrupti consequatur, laudantium repellendus vitae distinctio veritatis quas.[m
+     </p>[m
+     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quam repudiandae velit eos impedit corrupti eveniet provident quod aut quidem fugit nemo fuga totam aliquid ullam, quibusdam adipisci numquam, mollitia eaque?</p>[m
+     <a href="index.html">Voltar para a página inicial.</a>[m
